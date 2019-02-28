@@ -1,0 +1,10 @@
+{
+  "name": "volt",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "stylemark -i ./guides-src -o ./guides-output -b 9292 -c ./.stylemark.yml -w ./"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}

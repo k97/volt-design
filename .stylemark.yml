@@ -1,0 +1,20 @@
+name: Volt
+
+webpackAppPath: app
+
+assets:
+    - assets
+theme:
+    css:
+    - guides-src/theme/theme.css
+    
+    sidebar:
+        background: "#EFEFF4"
+        textColor: "#222"
+
+order:
+- -Getting Started
+- --Patterns
+- -Styleguide
+- -Components
+- -Topography
