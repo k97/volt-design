@@ -6,7 +6,7 @@ assets:
     - assets
 theme:
     css:
-    - guides-src/theme/theme.css
+    - src/theme/theme.css
     
     sidebar:
         background: "#EFEFF4"

@@ -1,3 +1,3 @@
 # VOLT
 
-A styleguide based on stylemart.
+A styleguide based on [stylemark](https://github.com/nextbigsoundinc/stylemark).
