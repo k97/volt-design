@@ -9,5 +9,5 @@
 - No statically built html files
 - Multiple themes
 
-[Get Started](/styleguide/home)
+[Get Started](./styleguide/home)
 <!-- [GitHub](https://github.com/k97/) -->
